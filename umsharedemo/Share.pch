@@ -1,0 +1,15 @@
+//
+//  Share.pch
+//  umsharedemo
+//
+//  Created by dihuijun on 17/3/23.
+//  Copyright © 2017年 Cycle. All rights reserved.
+//
+
+#ifndef Share_pch
+#define Share_pch
+
+
+
+#import "header.h"
+#endif /* Share_pch */
